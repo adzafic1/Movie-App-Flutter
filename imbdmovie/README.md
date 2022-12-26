@@ -1,8 +1,14 @@
 # imbdmovie
 
-A new Flutter project.
+ Make calls to API 
+ Add favourites functionality
+ Add details page 
+ Add navigation bar 
+ Add authorization header 
+ Add cache 
 
-## Getting Started
+
+## Getting Started with Flutter
 
 This project is a starting point for a Flutter application.
 
