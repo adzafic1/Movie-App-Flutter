@@ -1,11 +1,12 @@
 # imbdmovie
 
- Make calls to API 
- Add favourites functionality
- Add details page 
- Add navigation bar 
- Add authorization header 
- Add cache 
+ - Make calls to API 
+ - Add favourites functionality
+ - Add details page 
+ - Add navigation bar 
+ - Add authorization header 
+ - Add cache 
+ - Offline support
 
 
 ## Getting Started with Flutter
